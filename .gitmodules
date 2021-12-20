@@ -1,0 +1,3 @@
+[submodule "project-cux"]
+	path = project-cux
+	url = git@github.com:bohn19/project-cux.git
